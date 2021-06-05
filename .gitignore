@@ -79,3 +79,4 @@ crowdsales/*.yml
 
 # Customer test cases
 test_client*.py
+root_key
