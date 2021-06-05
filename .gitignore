@@ -76,3 +76,4 @@ registrar.json
 # Crowdsale definitions
 crowdsales/*.yml
 *.csv
+root_key
