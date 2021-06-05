@@ -72,3 +72,4 @@ registrar.json
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb
+root_key
